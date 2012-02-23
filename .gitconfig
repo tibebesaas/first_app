@@ -1,0 +1,7 @@
+[user]
+	name = tibebe
+	email = louabi@hotmail.com
+[alias]
+	co = checkout
+[core]
+	editor = gVim -f
